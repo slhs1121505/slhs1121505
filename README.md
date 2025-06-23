@@ -9,13 +9,12 @@
 
 - 🌱 I’m currently learning **Python**
 
-- My portfolio [https://slhs1121505.github.io/](https://slhs1121505.github.io/)
+- My personal web page [https://slhs1121505.github.io/](https://slhs1121505.github.io/)
 
 - 📫 How to reach me **tzufu.taiwan@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://fb.com/fu tzu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="fu tzu" height="30" width="40" /></a>
 <a href="https://instagram.com/ztf.411" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ztf.411" height="30" width="40" /></a>
 </p>
 
