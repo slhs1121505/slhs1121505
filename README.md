@@ -1,4 +1,5 @@
-<h1 align="center">Hi 👋, I'm slhs1121505 (張子夫)</h1>
+<h1 align="center">Hi 👋, I'm slhs1121505 (張子夫)
+I am a student from the Dept. of Data Processing.</h1>
 <h1 align="center"><img src="G1HuJgLaQAEJBTT.jpg" alt="subaru" /></h1>
 <h3 align="center">I am a student from the Dept. of Data Processing.</h3>
 
