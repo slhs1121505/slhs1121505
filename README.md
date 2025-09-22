@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi 👋, I'm slhs1121505 (ztf411, tzufu, 張子夫)</h1>
+  <h1>Hi, I'm slhs1121505 (ztf411, tzufu, 張子夫)</h1>
   <h3>I am a student from the Department of Data Processing.</h3>
   <img src="G1HuJgLaQAEJBTT.jpg" alt="subaru" />
   <h3>This is Subaru Awa from Girls Band Cry, I really like her!</h3>
