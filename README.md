@@ -1,7 +1,11 @@
-<h1 align="center">Hi 👋, I'm slhs1121505 (張子夫)
-I am a student from the Dept. of Data Processing.</h1>
-<h1 align="center"><img src="G1HuJgLaQAEJBTT.jpg" alt="subaru" /></h1>
-<h3 align="center">I am a student from the Dept. of Data Processing.</h3>
+<div align="center">
+  <h1>Hi 👋, I'm slhs1121505 (ztf411, tzufu, 張子夫)</h1>
+  <h3>I am a student from the Department of Data Processing.</h3>
+  <img src="G1HuJgLaQAEJBTT.jpg" alt="subaru" />
+  <h3>This is Subaru Awa from Girls Band Cry, I really like her!</h3>
+</div>
+
+<hr>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slhs1121505&label=Profile%20views&color=0e75b6&style=flat" alt="slhs1121505" /> </p>
 
