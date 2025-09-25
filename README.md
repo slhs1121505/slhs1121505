@@ -13,7 +13,7 @@
 
 - 🌱 I’m currently learning **Python**
 
-- My personal web page [https://slhs1121505.github.io/](https://slhs1121505.github.io/)
+- My personal web page [https://tzufu.me/](https://tzufu.me/)
 
 - 📫 How to reach me **tzufu.taiwan@gmail.com**
 
