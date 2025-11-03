@@ -2,7 +2,7 @@
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> , I'm 張子夫 (slhs1121505, ztf.411, tzufu)</h1>
 </div>
 
-<img src="https://github.com/slhs1121505/slhs1121505/blob/main/ririko.png?raw=true" align="right" width="350px" alt="ririko">
+<img src="https://github.com/slhs1121505/slhs1121505/blob/main/ririko.png?raw=true" align="right" width="250px" alt="ririko">
 
 ### 💻 &nbsp;About Me
 
