@@ -2,22 +2,22 @@
   <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> , I'm 張子夫 (slhs1121505, ztf.411, tzufu)</h1>
 </div>
 
-<img src="https://github.com/slhs1121505/slhs1121505/blob/main/ririko.png?raw=true" align="right" width="265" alt="ririko">
+<img src="https://github.com/slhs1121505/slhs1121505/blob/main/ririko.png?raw=true" align="right" width="350px" alt="ririko" style="margin-top: -20px;">
 
-## 💻 &nbsp;About Me
+### 💻 &nbsp;About Me
 
 - 🔭 I'm currently working on [Fight Detection System](https://github.com/slhs1121505/Fight_detection_system)
 - 🌱 I'm currently learning **Python**
 - 🌐 My personal web page [https://tzufu.me/](https://tzufu.me/)
 - 📫 How to reach me **tzufu.taiwan@gmail.com**
 
-## 🔗 &nbsp;Connect with me:
+### 🔗 &nbsp;Connect with me:
 
 <a href="https://instagram.com/ztf.411" target="blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ztf.411" height="40" width="50" />
 </a>
 
-## 🛠 &nbsp;Languages and Tools:
+### 🛠 &nbsp;Languages and Tools:
 
 <p align="left">
   <a href="https://www.blender.org/" target="_blank" rel="noreferrer">
@@ -61,3 +61,5 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=slhs1121505&label=Profile%20views&color=0e75b6&style=flat" alt="slhs1121505" />
 </p>
+
+</div>
