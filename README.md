@@ -1,7 +1,5 @@
 <div align="center">
   <h1>Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> , I'm 張子夫 (slhs1121505, ztf.411, tzufu)</h1>
-  <img src="G1HuJgLaQAEJBTT.jpg" alt="subaru" />
-  <h3>This is Subaru Awa from Girls Band Cry, I really like her!!!</h3>
 </div>
 
 <hr>
