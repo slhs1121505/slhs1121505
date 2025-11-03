@@ -2,8 +2,6 @@
   <h1>Hi <img src = "https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width = 40px> , I'm 張子夫 (slhs1121505, ztf.411, tzufu)</h1>
 </div>
 
-<hr>
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slhs1121505&label=Profile%20views&color=0e75b6&style=flat" alt="slhs1121505" /> </p>
 
 
