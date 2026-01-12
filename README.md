@@ -6,7 +6,6 @@
 
 ### 💻 &nbsp;About Me
 
-- 🔭 I'm currently working on [Fight Detection System V2](https://github.com/slhs1121505/FightDetectionSystemV2)
 - 🌱 I'm currently learning **Python**
 - 🌐 My personal web page [https://tzufu.me/](https://tzufu.me/)
 - 📫 How to reach me **tzufu.taiwan@gmail.com**
