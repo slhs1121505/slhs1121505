@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> , I'm 張子夫 (ztf.411, Tzufu)</h1>
+  <h1>Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="40px"> , I'm 張子夫 (Tzufu, Tzufu0411, ztf.411)</h1>
 </div>
 
 <img src="https://github.com/slhs1121505/slhs1121505/blob/main/ririko.png?raw=true" align="right" width="250px" alt="ririko">
