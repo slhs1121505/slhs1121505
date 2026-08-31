@@ -7,7 +7,7 @@
 ### 💻 &nbsp;About Me
 
 - 🌱 I'm currently learning **Python**
-- 🌐 My personal web page [https://tzufu.me/](https://tzufu.tech/)
+- 🌐 My personal web page [https://tzufu.tech/](https://tzufu.tech/)
 - 📫 How to reach me **tzufu.taiwan@gmail.com**
 
 ### 🔗 &nbsp;Connect with me:
